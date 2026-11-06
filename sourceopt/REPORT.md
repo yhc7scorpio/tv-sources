@@ -1,6 +1,6 @@
 # 源择优报告
 
-生成时间：2026-11-05T00:25:15+00:00
+生成时间：2026-11-06T00:20:11+00:00
 
 ## 当前生效
 
@@ -24,17 +24,17 @@
 
 | # | 仓库 | 详情 | 分数 |
 |---|---|---|---|
-| 1 | `CCSH/IPTV` | channels=4147 alive=0.875(8抽样) | 0.876 |
-| 2 | `Supprise0901/TVBox_live` | channels=689 alive=0.75(8抽样) | 0.838 |
-| 3 | `YanG-1989/m3u` | channels=123 alive=1.0(8抽样) | 0.805 |
-| 4 | `vbskycn/iptv` | channels=214 alive=0.75(8抽样) | 0.790 |
-| 5 | `fanmingming/live` | channels=94 alive=None(0抽样) | 0.663 |
-| 6 | `ngo5/IPTV` | channels=158 alive=0.0(8抽样) | 0.445 |
+| 1 | `Supprise0901/TVBox_live` | channels=773 alive=0.875(8抽样) | 0.882 |
+| 2 | `YanG-1989/m3u` | channels=123 alive=1.0(8抽样) | 0.804 |
+| 3 | `CCSH/IPTV` | channels=4129 alive=0.625(8抽样) | 0.788 |
+| 4 | `fanmingming/live` | channels=94 alive=None(0抽样) | 0.663 |
+| 5 | `ngo5/IPTV` | channels=158 alive=0.0(8抽样) | 0.444 |
 
-> ⏸ 保持不动：保持现有（新 0.876 需超过 1.116 才换）
+> ⏸ 保持不动：保持现有（新 0.882 需超过 1.116 才换）
 
 ### 本轮不可用
 
 - `FanchangWang/tvbox_config` — dist/tvbox.json@main: 多仓 9 个子仓全部拉不到内容; dist/my.json@main: 多仓 12 个子仓全部拉不到内容
 - `hkuc/tvbox-config` — url.json@main: 不是对象
 - `Guovin/iptv-api` — output/result.m3u@master: 拉取失败; output/ipv4/result.m3u@master: 拉取失败; output/ipv6/result.m3u@master: 拉取失败
+- `vbskycn/iptv` — tv/iptv4.m3u@master: 频道太少(34); tv/iptv6.m3u@master: 频道太少(1)
