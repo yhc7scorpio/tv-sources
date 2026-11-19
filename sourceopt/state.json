@@ -15,11 +15,11 @@
     "spider": "./jar/pg_upgraded.jar;md5;e58c3a2975d24db4978065ab895cf297",
     "spider_ok": 1.0,
     "size": 27643,
-    "star": 13010,
-    "fork": 4494,
+    "star": 13038,
+    "fork": 4502,
     "days": 0,
     "note": "12577 star / fork 4383，日更，gao 的上游",
-    "score": 0.9784619316306785,
+    "score": 0.9785123581849818,
     "detail": "sites=135 spider_ok=1.00 form=single"
   },
   "live": {
@@ -29,16 +29,16 @@
     "path": "tv/iptv4.m3u",
     "url": "https://gh-proxy.com/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u",
     "form": "m3u",
-    "channels": 432,
-    "groups": 432,
+    "channels": 339,
+    "groups": 339,
     "alive_rate": 1.0,
     "alive_sample": 8,
-    "size": 96239,
-    "star": 10507,
-    "fork": 1511,
+    "size": 80351,
+    "star": 10672,
+    "fork": 1530,
     "days": 0,
     "note": "10075 star（你当前在用）",
-    "score": 0.9708315708663446,
-    "detail": "channels=432 alive=1.0(8抽样)"
+    "score": 0.9406204773986659,
+    "detail": "channels=339 alive=1.0(8抽样)"
   }
 }
