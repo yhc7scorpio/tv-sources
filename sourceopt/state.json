@@ -15,11 +15,11 @@
     "spider": "./jar/pg_upgraded.jar;md5;e58c3a2975d24db4978065ab895cf297",
     "spider_ok": 1.0,
     "size": 27643,
-    "star": 13343,
-    "fork": 4561,
+    "star": 13361,
+    "fork": 4567,
     "days": 0,
     "note": "12577 star / fork 4383，日更，gao 的上游",
-    "score": 0.9789884164666379,
+    "score": 0.9790222012948674,
     "detail": "sites=135 spider_ok=1.00 form=single"
   },
   "live": {

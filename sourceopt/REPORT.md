@@ -1,6 +1,6 @@
 # 源择优报告
 
-生成时间：2026-11-27T02:15:36+00:00
+生成时间：2026-11-28T02:01:59+00:00
 
 ## 当前生效
 
@@ -16,7 +16,7 @@
 | 1 | `qist/tvbox` | sites=135 spider_ok=1.00 form=single | 0.979 |
 | 2 | `Lightconer/tvbox-ysc-config` | sites=46 spider_ok=0.50 form=multi | 0.843 |
 | 3 | `gaotianliuyun/gao` | sites=135 spider_ok=1.00 form=single | 0.617 |
-| 4 | `mrgaoshuiquan/tvbox-config` | sites=52 spider_ok=1.00 form=single | 0.608 |
+| 4 | `mrgaoshuiquan/tvbox-config` | sites=52 spider_ok=1.00 form=single | 0.607 |
 
 > ✅ 已切换：同一源，刷新内容
 
@@ -24,17 +24,17 @@
 
 | # | 仓库 | 详情 | 分数 |
 |---|---|---|---|
-| 1 | `vbskycn/iptv` | channels=338 alive=1.0(8抽样) | 0.940 |
-| 2 | `Supprise0901/TVBox_live` | channels=959 alive=1.0(8抽样) | 0.926 |
+| 1 | `Supprise0901/TVBox_live` | channels=882 alive=1.0(8抽样) | 0.926 |
+| 2 | `vbskycn/iptv` | channels=340 alive=0.875(8抽样) | 0.898 |
 | 3 | `CCSH/IPTV` | channels=4991 alive=0.75(8抽样) | 0.833 |
 | 4 | `fanmingming/live` | channels=94 alive=None(0抽样) | 0.664 |
-| 5 | `YanG-1989/m3u` | channels=123 alive=0.0(8抽样) | 0.441 |
-| 6 | `ngo5/IPTV` | channels=158 alive=0.0(8抽样) | 0.432 |
+| 5 | `YanG-1989/m3u` | channels=123 alive=0.375(8抽样) | 0.571 |
+| 6 | `ngo5/IPTV` | channels=158 alive=0.0(8抽样) | 0.431 |
 
-> ✅ 已切换：同一源，刷新内容
+> ⏸ 保持不动：保持现有（新 0.926 需超过 1.081 才换）
 
 ### 本轮不可用
 
-- `FanchangWang/tvbox_config` — dist/tvbox.json@main: 多仓 9 个子仓全部拉不到内容; dist/my.json@main: 多仓 12 个子仓全部拉不到内容
+- `FanchangWang/tvbox_config` — dist/tvbox.json@main: 多仓 8 个子仓全部拉不到内容; dist/my.json@main: 多仓 11 个子仓全部拉不到内容
 - `hkuc/tvbox-config` — url.json@main: 不是对象
 - `Guovin/iptv-api` — output/result.m3u@master: 拉取失败; output/ipv4/result.m3u@master: 拉取失败; output/ipv6/result.m3u@master: 拉取失败
